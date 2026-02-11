@@ -5,7 +5,7 @@
 
 > **[C^2ROPE: Causal Continuous Rotary Positional Encoding for 3D Large Multimodal-Models Reasoning](https://arxiv.org)**<br>
 > ICRA 2026<br>
-> Koon-Ting Yip, Qiyan Zhao, Wenhao Yu, Xiaofeng Zhang, Jianming Ji, Yanyong Zhang, Ka-Veng Yuen<br>
+> Koon-Ting Yip*, Qiyan Zhao, Wenhao Yu, Xiaofeng Zhang, Jianming Ji, Yanyong Zhang, Ka-Veng Yuen<br>
 
 
 
